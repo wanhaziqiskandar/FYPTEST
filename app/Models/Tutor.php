@@ -19,6 +19,7 @@ class Tutor extends Model
         'expertise',
         'price',
         'bankaccountNumber',
+        'bankName'
     ];
 
     public function user()
